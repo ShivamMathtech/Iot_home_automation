@@ -1,7 +1,7 @@
 # 🏠 Industrial Grade IoT Home Automation System
 
 An advanced **Industrial IoT Based Smart Home Automation System** using **ESP32 + Arduino Mega 2560** with MQTT cloud integration, real-time monitoring, multi-sensor support, and complete appliance automation.
-
+![image](circuit_diagram.png)
 ---
 
 # 🚀 Project Overview
